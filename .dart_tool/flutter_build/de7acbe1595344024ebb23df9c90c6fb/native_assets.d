@@ -1,0 +1,1 @@
+ E:\\FlutterProjects\\flutter_opentrivia_master\\.dart_tool\\flutter_build\\de7acbe1595344024ebb23df9c90c6fb\\native_assets.yaml: 

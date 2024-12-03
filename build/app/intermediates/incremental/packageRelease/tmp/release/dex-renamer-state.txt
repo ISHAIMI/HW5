@@ -1,0 +1,4 @@
+#Fri Nov 29 17:09:46 PKT 2024
+base.0=E\:\\FlutterProjects\\flutter_opentrivia_master\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
